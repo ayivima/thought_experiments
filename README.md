@@ -9,3 +9,7 @@
 ### <a href="https://github.com/ayivima/AI-SURFS/blob/master/ModelEncryptor/encryptor.py">A simple class for encrypted deep learning</a>
 
 ### <a href="https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md">Training a model on FashionMNIST: A walkthrough </a>
+
+## Find More:
+
+### https://github.com/ayivima/AI-SURFS
