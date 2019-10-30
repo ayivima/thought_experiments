@@ -12,6 +12,12 @@
 
 ### <a href="https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md">Training a model on FashionMNIST: A walkthrough </a>
 
+### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/On_the_limits_of_DP.md">On the limits of Differential Privacy</a>
+
+### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md">Differencing Attack: A simple overview</a>
+
+### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md">Sensitivity and Epsilon</a>
+
 
 ## Find More:
 
