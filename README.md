@@ -21,6 +21,7 @@ Victor Mawusi Ayi
 
 ### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md">Sensitivity and Epsilon</a>
 
+### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md">A simple introduction to Federated Learning concepts</a>
 
 ## Find More:
 
