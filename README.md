@@ -1,4 +1,4 @@
-# Some thought Experiments
+# Thought Adventures
 
 Victor Mawusi Ayi
 
