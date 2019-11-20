@@ -2,6 +2,7 @@
 
 Victor Mawusi Ayi
 
+### <a href="https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst">Thinking Python Uniqueness</a>
 
 ### <a href="https://github.com/ayivima/AI-SURFS/tree/master/Power_Of_Math_In_Image_Analysis">Is correlation enough for image comparison?</a>
 
